@@ -39,6 +39,94 @@
       "type": "outcome",
       "createdAt": "2022-10-25T15:17:40.567Z",
       "id": 5
+    },
+    {
+      "description": "Bolo de cenoura",
+      "category": "Alimentação",
+      "price": 14,
+      "type": "outcome",
+      "createdAt": "2022-10-26T14:39:19.018Z",
+      "id": 6
+    },
+    {
+      "description": "Milk Shake",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2022-10-26T14:39:36.431Z",
+      "id": 7
+    },
+    {
+      "description": "reforma",
+      "category": "Moradia",
+      "price": 25000,
+      "type": "outcome",
+      "createdAt": "2022-10-26T14:50:23.054Z",
+      "id": 8
+    },
+    {
+      "description": "Site",
+      "category": "desenvolvimento",
+      "price": 50000,
+      "type": "income",
+      "createdAt": "2022-10-27T14:12:11.537Z",
+      "id": 9
+    },
+    {
+      "description": "chocolate",
+      "category": "Alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:16:49.687Z",
+      "id": 10
+    },
+    {
+      "description": "academia",
+      "category": "saude",
+      "price": 40,
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:19:13.967Z",
+      "id": 11
+    },
+    {
+      "description": "chocolate meio amargo",
+      "category": "Alimentação",
+      "price": 40,
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:20:16.153Z",
+      "id": 12
+    },
+    {
+      "description": "Bolo de cenoura",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:22:12.398Z",
+      "id": 13
+    },
+    {
+      "description": "Comida",
+      "category": "Comida",
+      "price": 5,
+      "type": "income",
+      "createdAt": "2022-10-27T14:28:13.164Z",
+      "id": 14
+    },
+    {
+      "description": "aaaaaaaaa",
+      "price": 41,
+      "category": "aaaaaaaa",
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:33:14.673Z",
+      "id": 15
+    },
+    {
+      "description": "agora vai",
+      "price": 50,
+      "category": "agora vai",
+      "type": "outcome",
+      "createdAt": "2022-10-27T14:34:16.710Z",
+      "id": 16
     }
   ]
 }
