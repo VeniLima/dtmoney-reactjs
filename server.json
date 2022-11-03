@@ -127,6 +127,30 @@
       "type": "outcome",
       "createdAt": "2022-10-27T14:34:16.710Z",
       "id": 16
+    },
+    {
+      "description": "xsdsds",
+      "price": 500,
+      "category": "dsdada",
+      "type": "outcome",
+      "createdAt": "2022-10-28T11:58:29.242Z",
+      "id": 17
+    },
+    {
+      "description": "sdsada",
+      "price": 12121,
+      "category": "abalo",
+      "type": "income",
+      "createdAt": "2022-10-28T11:58:46.670Z",
+      "id": 18
+    },
+    {
+      "description": "Skin no vava",
+      "price": 50000,
+      "category": "Perda de dinheiro",
+      "type": "outcome",
+      "createdAt": "2022-10-29T19:48:37.841Z",
+      "id": 19
     }
   ]
 }
