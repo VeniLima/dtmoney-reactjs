@@ -58,6 +58,10 @@ Para usar <DTMoney>, siga estas etapas:
 npm run dev
 ```
 
+```
+npm run dev:server
+```
+
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
